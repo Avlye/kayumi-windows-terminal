@@ -13,7 +13,7 @@ This theme will always be open source for those interested in using or contribut
 
 ## Install
 
-Start Windows Terminal and click on down arrow symbol from menu bar and select Settings option, or use "*Ctrl + ,*" shortcut.
+Start Windows Terminal and click on down arrow symbol from menu bar and select Settings option, or use *Ctrl + ,* shortcut.
 
 In your **settings.json** file, find the *schemes* section and paste the content bellow.
 
@@ -94,7 +94,7 @@ Athough this part is optional, for having the best results I recommend using as 
 }
 ```
 
-Configuring your **ZSH** with Spaceship Prompt Theme will also help the look in WSL profile.
+Configuring your **ZSH** with [Spaceship Prompt Theme](https://github.com/denysdovhan/spaceship-prompt) will also help the look in WSL profile.
 
 ```zsh
 
