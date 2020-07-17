@@ -121,4 +121,4 @@ SPACESHIP_CHAR_SUFFIX=" "
 
 ```
 
-That's all, happy coding! :heart:
+That's all, happy coding! ❤
