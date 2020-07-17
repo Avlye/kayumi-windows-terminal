@@ -45,7 +45,7 @@ In your **settings.json** file, find the *schemes* section and paste the content
         "cursorColor": "#C55984",
         "selectionBackground": "#D7708B"
     }
-],
+]
 
 ```
 
@@ -73,7 +73,7 @@ Example #2: Define the color scheme only in one profile.
   "name": "Ubuntu",
   "hidden": false,
   "source": "Windows.Terminal.Wsl",
-},
+}
 
 ```
 
@@ -89,7 +89,7 @@ Athough this part is optional, for having the best results I recommend using as 
     "fontFace": "Fira Code",
     "fontSize": 14,
     "useAcrylic": true
-},
+}
 ```
 
 Configuring your **ZSH** with Spaceship Prompt Theme will also help the look in WSL profile.
