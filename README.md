@@ -84,7 +84,6 @@ Athough this part is optional, for having the best results I recommend using as 
 ```json
 "defaults":
 {
-    // Put settings here that you want to apply to all profiles.
     "acrylicOpacity": 0.96,
     "colorScheme": "Kayumi",
     "fontFace": "Fira Code",
