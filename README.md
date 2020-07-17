@@ -4,6 +4,8 @@ Kayumi is a character from my stories, she represents existential purity. This t
 
 This theme will always be open source for those interested in using or contributing to the project.
 
+![Kayumi for Windows Terminal Preview](https://raw.githubusercontent.com/Avlye/kayumi-windows-terminal/master/kayumi-windows-terminal.png)
+
 # Table of Contents
 1. [Install](#install)
 2. [Activate](#activate)
