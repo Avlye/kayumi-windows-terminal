@@ -20,34 +20,68 @@ In your **settings.json** file, find the *schemes* section and paste the content
 ```json
 
 "schemes": [
-    {
-        "name": "Kayumi",
+  {
+    "name": "Kayumi",
 
-        "background": "#403e41",
-        "foreground": "#fcfcfa",
+    "background": "#403e41",
+    "foreground": "#fcfcfa",
 
-        "black": "#26211E",
-        "red": "#C55984",
-        "green": "#62BB9E",
-        "yellow": "#D78047",
-        "blue": "#6292BB",
-        "purple": "#8459C5",
-        "cyan": "#5E606E",
-        "white": "#F7E3CC",
+    "black": "#403e41",
+    "red": "#C55984",
+    "green": "#a9dc76",
+    "yellow": "#ffd866",
+    "blue": "#6292BB",
+    "purple": "#ab9df2",
+    "cyan": "#78dce8",
+    "white": "#fcfcfa",
 
-        "brightBlack": "#2E2C2D",
-        "brightRed": "#D7708B",
-        "brightGreen": "#8DB9A5",
-        "brightYellow": "#F9CF9F",
-        "brightBlue": "#8DA5B9",
-        "brightPurple": "#B36ED6",
-        "brightCyan": "#A3A3A3",
-        "brightWhite": "#F9F8F1",
+    "brightBlack": "#727072",
+    "brightRed": "#D7708B",
+    "brightGreen": "#a9dc76",
+    "brightYellow": "#ffd866",
+    "brightBlue": "#8DA5B9",
+    "brightPurple": "#ab9df2",
+    "brightCyan": "#78dce8",
+    "brightWhite": "#fcfcfa",
 
-        "cursorColor": "#C55984",
-        "selectionBackground": "#D7708B"
-    }
+    "cursorColor": "#C55984",
+    "selectionBackground": "#D7708B"
+  }
 ]
+
+```
+
+or for the Light Theme
+
+```json
+
+{
+  "name": "Kayumi Light",
+
+  "background": "#fcfcfa",
+  "foreground": "#403e41",
+
+  "black": "#F7E3CC",
+  "red": "#C55984",
+  "green": "#62BB9E",
+  "yellow": "#D78047",
+  "blue": "#6292BB",
+  "purple": "#8459C5",
+  "cyan": "#5E606E",
+  "white": "#26211E",
+
+  "brightBlack": "#F9F8F1",
+  "brightRed": "#D7708B",
+  "brightGreen": "#8DB9A5",
+  "brightYellow": "#F9CF9F",
+  "brightBlue": "#8DA5B9",
+  "brightPurple": "#B36ED6",
+  "brightCyan": "#A3A3A3",
+  "brightWhite": "#2E2C2D",
+
+  "cursorColor": "#C55984",
+  "selectionBackground": "#D7708B"
+}
 
 ```
 
